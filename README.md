@@ -1,7 +1,3 @@
-Here's a sample `README.md` for your React and Django project:
-
----
-
 # To-Do List & Notes App
 
 This project is a simple To-Do List and Notes application built using **React** for the frontend and **Django** for the backend. The app allows users to create, update, delete, and manage their tasks and notes efficiently.
